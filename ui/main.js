@@ -11,9 +11,9 @@ function moveRight()
     do
     {
         marginLeft = marginLeft + 10;
-        img.style.marginLeft = marginLeft + 'px';
-    }while(marginLeft>200);
-    img.scr.marginLeft = marginLeft - '200';
+        img.style.marginRight = marginRight + 'px';
+    }while(marginLeft>1000);
+    
     
 }
 img.onclick = function()
