@@ -11,7 +11,7 @@ function moveRight()
     do
     {
         marginLeft = marginLeft + 10;
-        img.style.marginRight = marginRight + 'px';
+        img.style.marginRight = marginRight - 'px';
     }while(marginLeft>1000);
     
     
