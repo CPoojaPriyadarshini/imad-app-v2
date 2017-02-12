@@ -13,6 +13,7 @@ function moveRight()
         marginLeft = marginLeft + 10;
         img.style.marginLeft = marginLeft + 'px';
     }while(marginLeft>200);
+    img.scr.marginLeft = marginLeft - 200;
     
 }
 img.onclick = function()
