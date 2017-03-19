@@ -4,6 +4,7 @@ body {
 }
 
 .center {
+    float: left;
     text-align: center;
 }
 
