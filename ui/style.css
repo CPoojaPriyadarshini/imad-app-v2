@@ -4,7 +4,7 @@ body {
 }
 
 .center {
-    float: left;
+    
     text-align: center;
 }
 
@@ -23,5 +23,6 @@ body {
 .mypic{
     background-color: black;
     color: white;
+    float: left;
 }
 
