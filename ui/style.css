@@ -19,7 +19,8 @@ body {
     height: 200px;
 }
 
-#mypic{
+.mypic{
     background-color: black;
+    color: white;
 }
 
