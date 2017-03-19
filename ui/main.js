@@ -1,7 +1,7 @@
 console.log('Loaded!');
     
     var element = document.getElementById('text');
-    element.innerHTML = "New Value";
+    //element.innerHTML = "New Value";
 
 var img = document.getElementById('madi');
 
