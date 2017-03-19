@@ -9,6 +9,7 @@ body {
 }
 
 .text-big {
+    float: left;
     font-size: 200%;
 }
 
@@ -23,6 +24,5 @@ body {
 .mypic{
     background-color: black;
     color: white;
-    float: left;
 }
 
