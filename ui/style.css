@@ -30,7 +30,7 @@ body {
 
 .link {
     
-    color: green;
+    background-color: green;
     font-size: 150%;
     float: left;
     width: 100px;
@@ -38,7 +38,7 @@ body {
 
 }
 .para {
-    color: pink;
+    background-color: pink;
     font-size: 150%;
     float: left;
    width: 500px;
