@@ -39,6 +39,6 @@ body {
 .para {
     background-color: pink;
     font-size: 150%;
-    float: left;
+    float: right;
     margin-left: 200px;
 }
