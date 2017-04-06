@@ -34,3 +34,8 @@ body {
     float: left;
     
 }
+.para {
+    background-color: pink;
+    font-size: 150%;
+    float: right;
+}
