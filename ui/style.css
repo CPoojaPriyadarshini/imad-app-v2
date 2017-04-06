@@ -29,6 +29,7 @@ body {
 }
 
 .link {
+    margin:100px;
     background-color: green;
     font-size: 150%;
     float: left;
