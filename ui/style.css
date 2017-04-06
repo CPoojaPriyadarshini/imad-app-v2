@@ -29,14 +29,14 @@ body {
 }
 
 .link {
-    display: block;
+
     background-color: green;
     font-size: 150%;
     float: left;
+    width: 250px;
     
 }
 .para {
-    display: block;
     background-color: pink;
     font-size: 150%;
     float: right;
