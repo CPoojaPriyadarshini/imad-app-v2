@@ -75,3 +75,9 @@ body {
    width: 20%; height: 80px;
    text-align: center;
 }
+
+
+.box {
+    font-size: 30%;
+    margin: 20px;
+}
