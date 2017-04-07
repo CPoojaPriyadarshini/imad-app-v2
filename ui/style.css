@@ -72,12 +72,12 @@ body {
    margin-top:10px; background-color: #33adff;
     font-size: 60%;
     float: left;
-   width: 20%; height: 80px;
+   width: 20%; height: 10%;
    text-align: center;
 }
 
 
 .box {
-    font-size: 30%;
+    font-size: 100%;
     margin: 20px;
 }
