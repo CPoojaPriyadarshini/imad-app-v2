@@ -33,7 +33,7 @@ body {
     background-color: pink;
     font-size: 150%;
     float: left;
-   width: 400px;
+   width: 300px;
    height: 200px;
    margin: 10px;
    text-align: center;
@@ -41,8 +41,8 @@ body {
 .para2 {
     background-color: orange;
     font-size: 150%;
-    
-   width: 400px;
+    float: left;
+   width: 300px;
    height: 400px;
    margin: 10px;
    text-align: center;
@@ -52,7 +52,7 @@ body {
     background-color: pink;
     font-size: 150%;
     float: left;
-   width: 400px;
+   width: 300px;
    height: 300px;
    margin: 10px;
    text-align: center;
@@ -62,7 +62,7 @@ body {
     background-color: pink;
     font-size: 150%;
     float: left;
-   width: 400px;
+   width: 300px;
    height: 300px;
    margin: 10px;
    text-align: center;
@@ -72,7 +72,7 @@ body {
     background-color: pink;
     font-size: 150%;
     float: left;
-   width: 400px;
+   width: 300px;
    height: 300px;
    margin: 10px;
    text-align: center;
