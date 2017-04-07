@@ -30,26 +30,7 @@ body {
 
 
 .para1 {
-    background-color: pink;
-    font-size: 100%;
-    float: left;
-   width: 300px;
-   height: 200px;
-   margin: 10px;
-   text-align: center;
-}
-.para2 {
     background-color: orange;
-    font-size: 100%;
-    float: left;
-   width: 300px;
-   height: 300px;
-   margin: 10px;
-   text-align: center;
-}
-
-.para3 {
-    background-color: pink;
     font-size: 100%;
     float: left;
    width: 300px;
@@ -57,9 +38,18 @@ body {
    margin: 10px;
    text-align: center;
 }
-
-.para4 {
+.para2 {
     background-color: pink;
+    font-size: 100%;
+    float: left;
+   width: 300px;
+   height: 150px;
+   margin: 10px;
+   text-align: center;
+}
+
+.para3 {
+    background-color: #ffd11a;
     font-size: 100%;
     float: left;
    width: 300px;
@@ -68,12 +58,22 @@ body {
    text-align: center;
 }
 
-.para5 {
-    background-color: pink;
+.para4 {
+    background-color: #79ff4d;
     font-size: 100%;
     float: left;
    width: 300px;
-   height: 300px;
+   height: 250px;
+   margin: 10px;
+   text-align: center;
+}
+
+.para5 {
+    background-color: #33adff;
+    font-size: 100%;
+    float: left;
+   width: 300px;
+   height: 200px;
    margin: 10px;
    text-align: center;
    clear: right;
