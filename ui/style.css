@@ -35,7 +35,7 @@ body {
     font-size: 60%;
     float: left;
    width: 20%; 
-  padding: 1em;
+  height: 50px;
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ body {
     font-size: 60%;
     float: left;
    width: 20%; 
-  padding: 1em;  
+  height: 50px;  
    text-align:center;
 }
 
@@ -54,7 +54,7 @@ body {
     margin-top:10px; background-color: #ffff1a;
     font-size: 60%;
     float: left;
-   width: 20%; padding: 1em;   
+   width: 20%; height: 50px;   
    text-align: center;
 }
 
@@ -63,7 +63,7 @@ body {
     margin-top:10px; background-color: #79ff4d;
     font-size: 60%;
     float: left;
-   width: 20%;    padding: 1em;
+   width: 20%;    height: 50px;
    text-align: center;
 }
 
@@ -74,7 +74,7 @@ body {
     float: left;
    width: 20%; 
    text-align: center;
-   padding: 1em;
+   height: 50px;
 }
 
 
