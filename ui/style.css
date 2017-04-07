@@ -33,7 +33,7 @@ body {
     background-color: orange;
     font-size: 100%;
     float: left;
-   width: 300px;
+   width: 400px;
    height: 400px;
    margin: 10px;
    text-align: center;
@@ -42,7 +42,7 @@ body {
     background-color: pink;
     font-size: 100%;
     float: left;
-   width: 300px;
+   width: 400px;
    height: 150px;
    margin: 10px;
    text-align: center;
@@ -52,7 +52,7 @@ body {
     background-color: #ffd11a;
     font-size: 100%;
     float: left;
-   width: 300px;
+   width: 400px;
    height: 200px;
    margin: 10px;
    text-align: center;
@@ -62,7 +62,7 @@ body {
     background-color: #79ff4d;
     font-size: 100%;
     float: left;
-   width: 300px;
+   width: 400px;
    height: 250px;
    margin: 10px;
    text-align: center;
@@ -72,10 +72,9 @@ body {
     background-color: #33adff;
     font-size: 100%;
     float: left;
-   width: 300px;
+   width: 400px;
    height: 200px;
    margin: 10px;
    text-align: center;
-   clear: right;
 }
 
