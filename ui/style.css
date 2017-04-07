@@ -84,8 +84,7 @@ body {
 
 .foot{
     background-color: black;
-    
+    padding: 1em;
     font-size: 150%;
     color: white;
-    height: 70px;
 }
