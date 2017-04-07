@@ -9,6 +9,26 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
+app.get('/aq', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'aq.html'));
+});
+
+app.get('/sa', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'sa.html'));
+});
+
+app.get('/ts', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'ts.html'));
+});
+
+app.get('/ipd', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'ipd.html'));
+});
+
+app.get('/epcu', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'epcu.html'));
+});
+
 app.get('/intro', function(req, res){
     res.send("Pooja from BSAU");
 });
