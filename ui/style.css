@@ -18,12 +18,12 @@ body {
 }
 
 .img-medium {
-    margin-left: 18px;
-    margin-top: 18px;
+    
     height: 200px;
 }
 
 .mypic{
+    padding: 1em;
     background-color: black;
     color: white;
 }
